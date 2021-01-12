@@ -1,0 +1,1 @@
+# Configure-Firewall-Rules-on-a-set-of-VMware-SD-WAN-Edges-using-the-VCO-API
